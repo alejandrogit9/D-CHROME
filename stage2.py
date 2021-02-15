@@ -5,9 +5,7 @@ from mega import Mega
 
 def test():
     """
-    Enter your account details to begin
-    comment/uncomment lines to test various parts of the API
-    see readme.md for more information
+    Ingresa los datos de tu cuenta MEGA en la opción MAIL, PASS.
     """
     unique = str(uuid.uuid4())
     # user details
