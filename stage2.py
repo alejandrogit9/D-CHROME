@@ -11,8 +11,8 @@ def test():
     """
     unique = str(uuid.uuid4())
     # user details
-    email = "upshacked54sad@gmail.com"
-    password = "-+<2-%,~*"
+    email = "MAIL"
+    password = "-PASS"
 
     mega = Mega()
     # mega = Mega({'verbose': True})  # verbose option for print output
