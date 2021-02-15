@@ -7,3 +7,5 @@ password = "PASS"
  
 del archivo "stage2"
 Por ultimo tienes que pasar a .exe el archivo stage1.py y el stage2.py, despues crear una carpeta output_data asi como en esta imagen.
+
+https://github.com/alejandrogit9/D-CHROME/blob/main/imagen_2021-02-15_081333.png
