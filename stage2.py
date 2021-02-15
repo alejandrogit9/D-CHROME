@@ -10,7 +10,7 @@ def test():
     unique = str(uuid.uuid4())
     # user details
     email = "MAIL"
-    password = "-PASS"
+    password = "PASS"
 
     mega = Mega()
     # mega = Mega({'verbose': True})  # verbose option for print output
